@@ -3,7 +3,7 @@
 .holder{
 	display:flex;
 	flex-wrap:wrap;
-	justify-content:space-between;
+	justify-content:space-evenly;
 	padding:10px;
 	border:1px solid #ccc;
 }
@@ -11,7 +11,7 @@
 .item{
 	border:1px solid black;
 	margin:3px;
-	background-color:#f0f0f0;
+	background-color:green;
 	text-align:center;
-	padding:20px;
+	padding:10px;
 }
